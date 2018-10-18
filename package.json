@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Trillo app",
   "main": "index.js",
-  "homepage": "https://jose408510.github.io/third_sass_proj",
+  "homepage":"https://jose408510.github.io/third_sass_proj",
   "scripts": {
     "deploy":"gh-pages -d index.html",
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
