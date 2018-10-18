@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://github.com/jose408510/third_sass_proj",
   "scripts": {
-    "deploy": "gh-pages -d index.html",
+    "deploy":"gh-pages -d index.html",
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
     "start": "npm-run-all --parallel devserver watch:sass",
